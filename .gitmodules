@@ -1,0 +1,6 @@
+[submodule "cutdown-packets"]
+	path = cutdown-packets
+	url = https://github.com/MatthewIsHere/cutdown-packets
+[submodule "nanopb"]
+	path = nanopb
+	url = https://github.com/nanopb/nanopb.git
